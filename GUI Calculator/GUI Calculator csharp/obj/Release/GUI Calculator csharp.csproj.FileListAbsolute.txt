@@ -1,0 +1,9 @@
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\bin\Release\GUI Calculator csharp.exe.config
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\bin\Release\GUI Calculator csharp.exe
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\bin\Release\GUI Calculator csharp.pdb
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\obj\Release\GUI_Calculator_csharp.CalcDesign.resources
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\obj\Release\GUI_Calculator_csharp.Properties.Resources.resources
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\obj\Release\GUI Calculator csharp.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\obj\Release\GUI Calculator csharp.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\obj\Release\GUI Calculator csharp.exe
+C:\Users\Victor\source\repos\GUI Calculator csharp\GUI Calculator csharp\obj\Release\GUI Calculator csharp.pdb
